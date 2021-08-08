@@ -1,3 +1,3 @@
-# forkify Project
+# Easy Recipe
 
-Recipe application with custom recipe uploads.
+An application storing multiple recipes, where you can view/ add recipes.
